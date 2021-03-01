@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - Kingfisher (6.0.1)
+  - SwiftSpinner (2.0.0)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 3.3)
+  - Kingfisher (~> 6.0)
+  - SwiftSpinner (~> 2.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - Kingfisher
+    - SwiftSpinner
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  Kingfisher: adde87a4f74f6a3845395769354efff593581740
+  SwiftSpinner: 77d972ab315bdc29b62bbedd128b88986969967e
+
+PODFILE CHECKSUM: b8fde92ffb8a23177c419e58bd782c1ea389633f
+
+COCOAPODS: 1.9.3
